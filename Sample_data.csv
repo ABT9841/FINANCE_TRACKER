@@ -1,0 +1,41 @@
+date,amount,category,description
+2024-07-15,200.75,Expense,Groceries
+2024-07-16,0.0,None,No transaction
+2024-07-17,0.0,None,No transaction
+2024-07-18,150.0,Expense,Electric Bill
+2024-07-19,300.55,Income,Salary
+2024-07-20,125.0,Income,Part-time Work
+2024-07-22,450.0,Income,Freelance Project
+2024-07-29,120.0,Expense,Transportation
+2024-08-05,220.0,Expense,Groceries
+2024-08-10,85.0,Expense,Internet Bill
+2024-08-15,400.0,Income,Consulting Fee
+2024-08-22,150.0,Expense,Electricity Bill
+2024-08-30,180.0,Expense,Medical Expenses
+2024-09-05,120.0,Expense,Gasoline
+2024-09-15,500.0,Income,Freelance Work
+2024-09-25,700.0,Income,Project Completion
+2024-10-10,300.0,Expense,Shopping
+2024-10-20,100.0,Income,Side Gigs
+2024-10-25,95.0,Expense,Restaurant
+2024-10-30,250.0,Income,Consultation Fee
+2024-11-01,80.0,Expense,Internet Bill
+2024-11-10,180.0,Expense,Medical Bills
+2024-11-12,500.0,Income,Performance Bonus
+2024-11-20,300.0,Expense,Clothing
+2024-11-21,100.0,Income,Freelance Writing
+2024-11-29,700.0,Income,Project Completion
+2024-12-05,50.0,Expense,Parking Fees
+2024-12-10,200.0,Expense,Holiday Shopping
+2024-12-15,400.0,Income,Year-end Bonus
+2024-12-24,333.0,Income,Freelance Gig
+2025-01-05,350.0,Expense,Home Utilities
+2025-01-12,250.0,Income,Part-time Consulting
+2025-01-20,150.0,Expense,Transportation
+2025-02-01,275.0,Income,Stock Dividends
+2025-02-05,175.0,Expense,Gym Membership
+2025-02-12,600.0,Income,Performance Bonus
+2025-02-18,90.0,Expense,Entertainment
+2025-02-28,450.0,Income,Freelance Development
+2025-03-10,200.0,Expense,Car Maintenance
+2025-03-20,500.0,Income,Investment Returns
